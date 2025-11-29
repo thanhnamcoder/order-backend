@@ -1,0 +1,2792 @@
+{
+  "307585": {
+    "itemCode": "307585",
+    "barcode": "2100013075854",
+    "itemName": "HD Com Nam Kim Chi Pho Mai Xuc Xich/1 Cai",
+    "baseOrderPrice": 13000.0
+  },
+  "307730": {
+    "itemCode": "307730",
+    "barcode": "2100013077308",
+    "itemName": "HD Com Bo Xao Sot Mala/1 Hop",
+    "baseOrderPrice": 25400.0
+  },
+  "251570": {
+    "itemCode": "251570",
+    "barcode": "2900012515708",
+    "itemName": "JBF Com Tron Han Quoc 284g/1 Hop",
+    "baseOrderPrice": 23000.0
+  },
+  "244719": {
+    "itemCode": "244719",
+    "barcode": "2100012447195",
+    "itemName": "JBF Com Nam Bo BBQ/1 Cai",
+    "baseOrderPrice": 10045.0
+  },
+  "260927": {
+    "itemCode": "260927",
+    "barcode": "2900012609278",
+    "itemName": "JBF Com Nam Thit Heo Nuong/1 Cai",
+    "baseOrderPrice": 10045.0
+  },
+  "307728": {
+    "itemCode": "307728",
+    "barcode": "2100013077285",
+    "itemName": "HD Com Nam Tom Sot Mala/1 Cai",
+    "baseOrderPrice": 11700.0
+  },
+  "303960": {
+    "itemCode": "303960",
+    "barcode": "2100011205055",
+    "itemName": "HSV Banh Mi Ga Xe & Cha Lua/1 Phan",
+    "baseOrderPrice": 15000.0
+  },
+  "207018": {
+    "itemCode": "207018",
+    "barcode": "8934680045421",
+    "itemName": "KINH DO Sandwich Cha Bong 50g/1 Goi",
+    "baseOrderPrice": 5067.0
+  },
+  "306612": {
+    "itemCode": "306612",
+    "barcode": "8936080490122",
+    "itemName": "A&C Banh Crepe Sua 50g/ 1 Hop",
+    "baseOrderPrice": 13000.0
+  },
+  "307140": {
+    "itemCode": "307140",
+    "barcode": "8935282911626",
+    "itemName": "PhaTea Tra Mang Cau Chanh Day 330ml/1 Chai",
+    "baseOrderPrice": 23611.0
+  },
+  "240228": {
+    "itemCode": "240228",
+    "barcode": "8936076270165",
+    "itemName": "SAVOURE Banh Donut Socola Den 85g/1 Hop",
+    "baseOrderPrice": 11500.0
+  },
+  "307238": {
+    "itemCode": "307238",
+    "barcode": "2100013072389",
+    "itemName": "HD Egg Drop Bo Bulgogi Pho Mai/1 Cai",
+    "baseOrderPrice": 21000.0
+  },
+  "305385": {
+    "itemCode": "305385",
+    "barcode": "2100013053852",
+    "itemName": "HD Burger Ga Pho Mai Sot Han Quoc 127g/cai",
+    "baseOrderPrice": 21500.0
+  },
+  "305557": {
+    "itemCode": "305557",
+    "barcode": "8935299638943",
+    "itemName": "COBI Banh Mi Kem Tuoi 75g/1 Goi",
+    "baseOrderPrice": 18608.0
+  },
+  "304802": {
+    "itemCode": "304802",
+    "barcode": "2100013048025",
+    "itemName": "TP Banh Bao Thap Cam 2 Trung 150g/1 Cai",
+    "baseOrderPrice": 13750.0
+  },
+  "307652": {
+    "itemCode": "307652",
+    "barcode": "8936077120414",
+    "itemName": "HF Banh Bao Bo Pho Mai Kieu Nhat 110g/1 Cai",
+    "baseOrderPrice": 19140.0
+  },
+  "152093": {
+    "itemCode": "152093",
+    "barcode": "CK11060101",
+    "itemName": "TP Banh Bao Cade/1 Cai",
+    "baseOrderPrice": 2963.0
+  },
+  "152108": {
+    "itemCode": "152108",
+    "barcode": "CK11060102",
+    "itemName": "TP Banh Bao Khoai Mon/1 Cai",
+    "baseOrderPrice": 3750.0
+  },
+  "22660": {
+    "itemCode": "22660",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "300769": {
+    "itemCode": "300769",
+    "barcode": "8936132460141",
+    "itemName": "U&I Chuoi Unifarm/1 Trai",
+    "baseOrderPrice": 5980.0
+  },
+  "307560": {
+    "itemCode": "307560",
+    "barcode": "8935335402811",
+    "itemName": "TP Banh Bao Chay Gao Lut Nam Hat Sen 100g/1 Cai",
+    "baseOrderPrice": 11111.0
+  },
+  "307729": {
+    "itemCode": "307729",
+    "barcode": "2100013077292",
+    "itemName": "HD Hu Tieu Ga Nuong Sot Mala/1 Hop",
+    "baseOrderPrice": 27500.0
+  },
+  "300637": {
+    "itemCode": "300637",
+    "barcode": "2103006370004",
+    "itemName": "HS Oi 300g/1 Goi",
+    "baseOrderPrice": 12000.0
+  },
+  "307430": {
+    "itemCode": "307430",
+    "barcode": "2100013074307",
+    "itemName": "YAMAZAKI Hawaii Khoai Tay Nguyen O 228g/1 Cai",
+    "baseOrderPrice": 28560.0
+  },
+  "271758": {
+    "itemCode": "271758",
+    "barcode": "2100012717588",
+    "itemName": "HS Man 250g/1 Goi",
+    "baseOrderPrice": 14500.0
+  },
+  "233506": {
+    "itemCode": "233506",
+    "barcode": "8934760212347",
+    "itemName": "STAFF Banh Mi 3 Trong 1 90g/1 Goi",
+    "baseOrderPrice": 6061.0
+  },
+  "306827": {
+    "itemCode": "306827",
+    "barcode": "2100013068276",
+    "itemName": "HD Sandwich Ga Teriyaki & Jambon/1 Cai",
+    "baseOrderPrice": 15700.0
+  },
+  "307704": {
+    "itemCode": "307704",
+    "barcode": "8935299653847",
+    "itemName": "COBI Banh Mi Soboro Kem Bap 46g/1 Goi",
+    "baseOrderPrice": 16042.0
+  },
+  "307667": {
+    "itemCode": "307667",
+    "barcode": "2100013076677",
+    "itemName": "JBF Mini Kimbap Bo Bulgogi Pho Mai/1 Cai",
+    "baseOrderPrice": 16605.0
+  },
+  "153829": {
+    "itemCode": "153829",
+    "barcode": "8932001801008",
+    "itemName": "HS Buoi 5 Roi 200g/1 Goi",
+    "baseOrderPrice": 20000.0
+  },
+  "305070": {
+    "itemCode": "305070",
+    "barcode": "2100013050707",
+    "itemName": "JBF Com Nam Ga Sot Pho Mai/1 Cai",
+    "baseOrderPrice": 9850.0
+  },
+  "307276": {
+    "itemCode": "307276",
+    "barcode": "8934760213399",
+    "itemName": "STAFF Banh Mi Kep Kem Pho Mai 65g/ 1 Goi",
+    "baseOrderPrice": 9111.0
+  },
+  "262424": {
+    "itemCode": "262424",
+    "barcode": "8936076270172",
+    "itemName": "SAVOURE Banh Mi Dua Luoi 120G/1 goi",
+    "baseOrderPrice": 10800.0
+  },
+  "179778": {
+    "itemCode": "179778",
+    "barcode": "8936076270264",
+    "itemName": "SAVOURE Banh Mexico Sua Dua 80g/1 Goi",
+    "baseOrderPrice": 6700.0
+  },
+  "307237": {
+    "itemCode": "307237",
+    "barcode": "2100013072372",
+    "itemName": "HD Egg Drop Bacon Pho Mai/1 Cai",
+    "baseOrderPrice": 21000.0
+  },
+  "307402": {
+    "itemCode": "307402",
+    "barcode": "8938511301588",
+    "itemName": "CK Kem La Nep 50ml/1 Phan",
+    "baseOrderPrice": 6000.0
+  },
+  "151794": {
+    "itemCode": "151794",
+    "barcode": "8931106001009",
+    "itemName": "TP Banh Bao Trung Muoi & Cut 170g/1 Cai",
+    "baseOrderPrice": 18519.0
+  },
+  "307584": {
+    "itemCode": "307584",
+    "barcode": "8936077120377",
+    "itemName": "HF Banh Bao Thit Heo Kieu Nhat 120g/1 Cai",
+    "baseOrderPrice": 14328.0
+  },
+  "306744": {
+    "itemCode": "306744",
+    "barcode": "8938545001348",
+    "itemName": "HEY YO Co Vit Bach Vi 42G/1 Goi",
+    "baseOrderPrice": 10230.0
+  },
+  "306849": {
+    "itemCode": "306849",
+    "barcode": "6975073835238",
+    "itemName": "A1 Banh Mi Vi Dua Hau 47g/1 Cai",
+    "baseOrderPrice": 9259.0
+  },
+  "306848": {
+    "itemCode": "306848",
+    "barcode": "6975073835276",
+    "itemName": "A1 Banh Mi Vi Dua Luoi 47g/1 Cai",
+    "baseOrderPrice": 9259.0
+  },
+  "303788": {
+    "itemCode": "303788",
+    "barcode": "8699097091910",
+    "itemName": "JOY TOP Keo Trung Con Vat Do Choi 11g/1 Cai",
+    "baseOrderPrice": 30000.0
+  },
+  "300799": {
+    "itemCode": "300799",
+    "barcode": "8934772285094",
+    "itemName": "SAN MIGUEL Bia Vi Vai 330ml/1 Lon",
+    "baseOrderPrice": 14250.0
+  },
+  "303013": {
+    "itemCode": "303013",
+    "barcode": "8850006941744",
+    "itemName": "COLGATE Kem Danh Rang Optic White O2 85g/1 Hop",
+    "baseOrderPrice": 88864.0
+  },
+  "306142": {
+    "itemCode": "306142",
+    "barcode": "02111444",
+    "itemName": "NORBETA Banh Trung Cuon 84g/1 Cai",
+    "baseOrderPrice": 12576.0
+  },
+  "110594": {
+    "itemCode": "110594",
+    "barcode": "8934831155009",
+    "itemName": "NHABEXIMS Mit Say 100g/1 Goi",
+    "baseOrderPrice": 31013.0
+  },
+  "104416": {
+    "itemCode": "104416",
+    "barcode": "3068320055008",
+    "itemName": "EVIAN Nuoc Khoang 500ml/1 Chai",
+    "baseOrderPrice": 25700.0
+  },
+  "304452": {
+    "itemCode": "304452",
+    "barcode": "8936079123895",
+    "itemName": "POCA YUMMY Snack Vi Sua Chua Dau 58g/1 Goi",
+    "baseOrderPrice": 7662.0
+  },
+  "305308": {
+    "itemCode": "305308",
+    "barcode": "4901004002457",
+    "itemName": "ASAHI Bia Super Dry 330ml/1 Chai",
+    "baseOrderPrice": 22045.45
+  },
+  "305987": {
+    "itemCode": "305987",
+    "barcode": "8852052052108",
+    "itemName": "RUAY PUAN Snack Tom Rong Bien 20g/1 Goi",
+    "baseOrderPrice": 4200.0
+  },
+  "301779": {
+    "itemCode": "301779",
+    "barcode": "8936204410043",
+    "itemName": "OHAYO Banh Trang Kho Ga Sieu Cay 40g/1Goi ",
+    "baseOrderPrice": 11446.0
+  },
+  "305819": {
+    "itemCode": "305819",
+    "barcode": "8935090914833",
+    "itemName": "DAN-D-PAK Hat Dieu Vi Toi 40g/1 Goi",
+    "baseOrderPrice": 21818.0
+  },
+  "306545": {
+    "itemCode": "306545",
+    "barcode": "8859578606297",
+    "itemName": "PLAY MORE Keo Deo Nho Boc Vo 42g/1 Cai",
+    "baseOrderPrice": 19885.0
+  },
+  "306405": {
+    "itemCode": "306405",
+    "barcode": "8936218560222",
+    "itemName": "DOSI Da Heo Vi BBQ 30g/1 Goi",
+    "baseOrderPrice": 14841.0
+  },
+  "103058": {
+    "itemCode": "103058",
+    "barcode": "69024894",
+    "itemName": "SNICKERS So Co La 35g/1 Thanh",
+    "baseOrderPrice": 14354.0
+  },
+  "102535": {
+    "itemCode": "102535",
+    "barcode": "93682978",
+    "itemName": "M&M So Co La Sua Dau Phong 37g/1 Goi",
+    "baseOrderPrice": 16369.0
+  },
+  "301598": {
+    "itemCode": "301598",
+    "barcode": "9300682016278",
+    "itemName": "M&M So Co La Gion 30g/1 Goi",
+    "baseOrderPrice": 16788.0
+  },
+  "305820": {
+    "itemCode": "305820",
+    "barcode": "8935090914819",
+    "itemName": "DAN-D-PAK Hat Dieu Vi Muoi Tieu 40g/1 Goi",
+    "baseOrderPrice": 21818.0
+  },
+  "226800": {
+    "itemCode": "226800",
+    "barcode": "4897010448016",
+    "itemName": "SKITTLES Keo Trai Cay 45g/1 Goi",
+    "baseOrderPrice": 14757.0
+  },
+  "103060": {
+    "itemCode": "103060",
+    "barcode": "6914973600362",
+    "itemName": "SNICKERS So Co La 51g/1 Thanh",
+    "baseOrderPrice": 18292.0
+  },
+  "100654": {
+    "itemCode": "100654",
+    "barcode": "8857122621376",
+    "itemName": "WRIGLEY'S DOUBLEMINT Keo Ngam Chanh 23.8g/1 Hop",
+    "baseOrderPrice": 24487.0
+  },
+  "101799": {
+    "itemCode": "101799",
+    "barcode": "6942836702403",
+    "itemName": "HERSHEY'S So Co La Sua Hanh Nhan 40g/1 Thanh",
+    "baseOrderPrice": 20935.0
+  },
+  "254950": {
+    "itemCode": "254950",
+    "barcode": "686464628006",
+    "itemName": "KIDSMANIA Keo Shit Mat Cuoi 15g/1 Cai",
+    "baseOrderPrice": 27000.0
+  },
+  "304859": {
+    "itemCode": "304859",
+    "barcode": "8935006361300",
+    "itemName": "POPIT Keo So Co La Sua Doraemon 15g/1 Ong",
+    "baseOrderPrice": 15653.0
+  },
+  "305097": {
+    "itemCode": "305097",
+    "barcode": "8934677037118",
+    "itemName": "LOTTE Gum Doraemon Cam 56g/1 Cai",
+    "baseOrderPrice": 25926.0
+  },
+  "304576": {
+    "itemCode": "304576",
+    "barcode": "8859533603255",
+    "itemName": "WOLFOO Keo Trung So Co La 20g/1 Cai",
+    "baseOrderPrice": 14625.0
+  },
+  "191584": {
+    "itemCode": "191584",
+    "barcode": "80974482",
+    "itemName": "KINDER JOY So Co La Trung Be Trai 20g/1 CAI",
+    "baseOrderPrice": 24907.0
+  },
+  "303620": {
+    "itemCode": "303620",
+    "barcode": "686464641005",
+    "itemName": "KIDSMANIA Keo Do Choi Ca Map Lap Di 12g/1 Cai",
+    "baseOrderPrice": 30500.0
+  },
+  "305493": {
+    "itemCode": "305493",
+    "barcode": "8936079124977",
+    "itemName": "LAY'S MAX Khoai Tay Chien Vi Tao Nhat Ban 75g/1 Goi",
+    "baseOrderPrice": 16037.0
+  },
+  "305490": {
+    "itemCode": "305490",
+    "barcode": "8938512932453",
+    "itemName": "SAI GON Sua Chua Com 120g/1 Hop",
+    "baseOrderPrice": 11000.0
+  },
+  "305307": {
+    "itemCode": "305307",
+    "barcode": "4901004021076",
+    "itemName": "ASAHI Bia Super Dry 330ml/1 Lon",
+    "baseOrderPrice": 22045.45
+  },
+  "219722": {
+    "itemCode": "219722",
+    "barcode": "8935007117135",
+    "itemName": "LOTHAMILK  Sua Thanh Trung Co Duong 500ml/1 Chai",
+    "baseOrderPrice": 21120.0
+  },
+  "238962": {
+    "itemCode": "238962",
+    "barcode": "8938512932026",
+    "itemName": "SAI GON Sua Chua Nep Cam 120g/1 Hop",
+    "baseOrderPrice": 9600.0
+  },
+  "270998": {
+    "itemCode": "270998",
+    "barcode": "8938512932132",
+    "itemName": "SAI GON SCU Set Viet Quat 300ml*1BT",
+    "baseOrderPrice": 17000.0
+  },
+  "271009": {
+    "itemCode": "271009",
+    "barcode": "8938512932149",
+    "itemName": "SAI GON Sua Bap Non 300ml*1BT",
+    "baseOrderPrice": 12000.0
+  },
+  "246575": {
+    "itemCode": "246575",
+    "barcode": "8936139140077",
+    "itemName": "GO Tra Sua Thach Matcha 330ml/1 Chai",
+    "baseOrderPrice": 11000.0
+  },
+  "246567": {
+    "itemCode": "246567",
+    "barcode": "8936139140084",
+    "itemName": "GO Tra Sua Thach 330ml/1 Chai",
+    "baseOrderPrice": 11000.0
+  },
+  "205464": {
+    "itemCode": "205464",
+    "barcode": "8935019598717",
+    "itemName": "SM Xuc Xich Duc 200g/1 Goi",
+    "baseOrderPrice": 34700.0
+  },
+  "215833": {
+    "itemCode": "215833",
+    "barcode": "88010680382622",
+    "itemName": "SAMLIP Banh Pho Mai 105g/1 Cai",
+    "baseOrderPrice": 23000.0
+  },
+  "302053": {
+    "itemCode": "302053",
+    "barcode": "8935019599929",
+    "itemName": "SM Xuc Xich Viet My 200g/1 Goi",
+    "baseOrderPrice": 23600.0
+  },
+  "307528": {
+    "itemCode": "307528",
+    "barcode": "8850329101863",
+    "itemName": "MEIJI Sua Thanh Trung Khong Lactose 200ml/1 Hop",
+    "baseOrderPrice": 20000.0
+  },
+  "306046": {
+    "itemCode": "306046",
+    "barcode": "8938529017440",
+    "itemName": "G4YOU XX Uc Ga Vi Cay 70g/1 Goi",
+    "baseOrderPrice": 20079.0
+  },
+  "252128": {
+    "itemCode": "252128",
+    "barcode": "8938512932033",
+    "itemName": "SAI GON Banh Flan 100g/1 Hop",
+    "baseOrderPrice": 8800.0
+  },
+  "303823": {
+    "itemCode": "303823",
+    "barcode": "8935217420414",
+    "itemName": "TH Pho Mai Mozzarella 100g/1 Goi",
+    "baseOrderPrice": 33443.0
+  },
+  "305098": {
+    "itemCode": "305098",
+    "barcode": "8938501434050",
+    "itemName": "YAKULT SCU Len Men It Duong (65mlx5 Chai)/1 Loc",
+    "baseOrderPrice": 21500.0
+  },
+  "166432": {
+    "itemCode": "166432",
+    "barcode": "8935217413003",
+    "itemName": "TH TRUE YOGURT Sua Chua An Co Duong 100g/1 Hop",
+    "baseOrderPrice": 6324.0
+  },
+  "191631": {
+    "itemCode": "191631",
+    "barcode": "8935217413409",
+    "itemName": "TH TRUE YOGURT Sua Chua An Khong Duong 100g/1 Hop",
+    "baseOrderPrice": 6324.0
+  },
+  "120537": {
+    "itemCode": "120537",
+    "barcode": "8934673606820",
+    "itemName": "VINAMILK Sua Chua An Co Duong 100g/1 Hop",
+    "baseOrderPrice": 5700.0
+  },
+  "191649": {
+    "itemCode": "191649",
+    "barcode": "8935217410507",
+    "itemName": "TH TRUE YOGURT Sua Chua An Vi Viet Quat 100g/1 Hop",
+    "baseOrderPrice": 7210.0
+  },
+  "305759": {
+    "itemCode": "305759",
+    "barcode": "8935217451012",
+    "itemName": "TH TRUE YOGURT Sua Chua An Com Nep Gion 110g/1 Hop",
+    "baseOrderPrice": 11812.0
+  },
+  "304096": {
+    "itemCode": "304096",
+    "barcode": "8888470042001",
+    "itemName": "MEIJI Sua Thanh Trung Socola 200ml/1 Chai",
+    "baseOrderPrice": 13750.0
+  },
+  "304098": {
+    "itemCode": "304098",
+    "barcode": "8850329106578",
+    "itemName": "MEIJI Sua Thanh Trung Dua Luoi 200ml/1 Chai",
+    "baseOrderPrice": 13750.0
+  },
+  "222034": {
+    "itemCode": "222034",
+    "barcode": "8935006357051",
+    "itemName": "OTTO BM Tuoi SCL 55g/1 Goi",
+    "baseOrderPrice": 5762.0
+  },
+  "208991": {
+    "itemCode": "208991",
+    "barcode": "8935006353152",
+    "itemName": "OTTO BM Kem Socola 90g/1 Goi",
+    "baseOrderPrice": 5588.0
+  },
+  "216740": {
+    "itemCode": "216740",
+    "barcode": "8935006359253",
+    "itemName": "OTTO BM Sua 90g/ 1 Goi",
+    "baseOrderPrice": 5588.0
+  },
+  "300642": {
+    "itemCode": "300642",
+    "barcode": "8935006359314",
+    "itemName": "OTTO SW Ca Hoi Rong Bien Xot Mayo 82.5g /1 Pack",
+    "baseOrderPrice": 7448.0
+  },
+  "241208": {
+    "itemCode": "241208",
+    "barcode": "8935006358140",
+    "itemName": "OTTO Sandwich Cha Bong Mayo 82.5g/1 Goi",
+    "baseOrderPrice": 7448.0
+  },
+  "205812": {
+    "itemCode": "205812",
+    "barcode": "8935006352766",
+    "itemName": "OTTO BM Kem Sua Hot Ga 90g/1Goi",
+    "baseOrderPrice": 5588.0
+  },
+  "306517": {
+    "itemCode": "306517",
+    "barcode": "8936044680668",
+    "itemName": "TIEN FOOD Sandwich Cacao Kem Socola 50g/1 Cai",
+    "baseOrderPrice": 5400.0
+  },
+  "223454": {
+    "itemCode": "223454",
+    "barcode": "8908009419637",
+    "itemName": "BAULI Banh Sung Trau Socola 45g/1 Goi",
+    "baseOrderPrice": 6771.0
+  },
+  "303870": {
+    "itemCode": "303870",
+    "barcode": "8936185351823",
+    "itemName": "CHILL Nươc Cocktail Vi Vai Sake 250ml/ 1 Lon",
+    "baseOrderPrice": 18970.0
+  },
+  "304662": {
+    "itemCode": "304662",
+    "barcode": "8936146446469",
+    "itemName": "G Cha Lua Que 50g/1 Goi",
+    "baseOrderPrice": 10920.0
+  },
+  "306223": {
+    "itemCode": "306223",
+    "barcode": "8802534889104",
+    "itemName": "SWEETORY Banh Quy Vi Pho Mai Cheddar 60g/1 Goi",
+    "baseOrderPrice": 19500.0
+  },
+  "305633": {
+    "itemCode": "305633",
+    "barcode": "8934673701181",
+    "itemName": "VINAMILK Sua Hat Cao Dam 180ml/1 Hop",
+    "baseOrderPrice": 13300.0
+  },
+  "265579": {
+    "itemCode": "265579",
+    "barcode": "8936131790140",
+    "itemName": "PICHI Kho Heo Toi Ot 50g/1 Goi",
+    "baseOrderPrice": 28518.0
+  },
+  "303478": {
+    "itemCode": "303478",
+    "barcode": "8859578605443",
+    "itemName": "PLAY MORE Keo Trung So Co La Sua 20g/1 Cai",
+    "baseOrderPrice": 20661.0
+  },
+  "302769": {
+    "itemCode": "302769",
+    "barcode": "8935117700135",
+    "itemName": "Anh Hong Flan Caramel Ca Phe Sua Dua 82g/1 Hop",
+    "baseOrderPrice": 9900.0
+  },
+  "218564": {
+    "itemCode": "218564",
+    "barcode": "8935117700128",
+    "itemName": "ANH HONG Banh Flan Cao Cap 80g/1 Hop",
+    "baseOrderPrice": 9900.0
+  },
+  "176186": {
+    "itemCode": "176186",
+    "barcode": "8935117700098",
+    "itemName": "ANH HONG Banh Flan (2 hop x 100g)/1 Goi",
+    "baseOrderPrice": 19800.0
+  },
+  "303374": {
+    "itemCode": "303374",
+    "barcode": "2100013033748",
+    "itemName": "HD Sandwich Thit Nguoi Pho Mai 84g/ 1 Cai",
+    "baseOrderPrice": 19176.0
+  },
+  "267327": {
+    "itemCode": "267327",
+    "barcode": "2100012673273",
+    "itemName": "JBF SW Ga S.Chua Ngot C.Bong/1 Cai",
+    "baseOrderPrice": 15850.0
+  },
+  "304484": {
+    "itemCode": "304484",
+    "barcode": "2100013044843",
+    "itemName": "JBF Mi Y Thit Xao Sot Kem/1 Hop",
+    "baseOrderPrice": 20500.0
+  },
+  "305163": {
+    "itemCode": "305163",
+    "barcode": "2100013051636",
+    "itemName": "JBF Mi Y Thit Vien Sot BBQ/1 Hop",
+    "baseOrderPrice": 21790.0
+  },
+  "177441": {
+    "itemCode": "177441",
+    "barcode": "8934680043748",
+    "itemName": "KINH DO BM Cha Bong 70g/1 Goi",
+    "baseOrderPrice": 9028.0
+  },
+  "179786": {
+    "itemCode": "179786",
+    "barcode": "8936076279335",
+    "itemName": "SAVOURE Banh Su Kem 75g/1 Hop",
+    "baseOrderPrice": 10200.0
+  },
+  "307139": {
+    "itemCode": "307139",
+    "barcode": "8935282911527",
+    "itemName": "PhaTea Tra Quyt Hoa Nhai 330ml/1 Chai",
+    "baseOrderPrice": 23611.0
+  },
+  "249183": {
+    "itemCode": "249183",
+    "barcode": "8936076270332",
+    "itemName": "SAVOURE Banh Sandwich Nho 150g/1 Goi",
+    "baseOrderPrice": 11000.0
+  },
+  "307668": {
+    "itemCode": "307668",
+    "barcode": "2100013076684",
+    "itemName": "JBF Mini Kimbap Ga Karaage/1 Cai",
+    "baseOrderPrice": 15244.0
+  },
+  "244955": {
+    "itemCode": "244955",
+    "barcode": "2100012449557",
+    "itemName": "JBF Sandwich Bo BBQ & Trung Mayo/1 Cai",
+    "baseOrderPrice": 16191.0
+  },
+  "307141": {
+    "itemCode": "307141",
+    "barcode": "8935282911619",
+    "itemName": "PhaTea Tra Yuzu 330ml/1 Chai",
+    "baseOrderPrice": 23611.0
+  },
+  "244989": {
+    "itemCode": "244989",
+    "barcode": "2100012449892",
+    "itemName": "JBF Com Nam Thit X.Khoi Mayo/1 Cai",
+    "baseOrderPrice": 10045.0
+  },
+  "306962": {
+    "itemCode": "306962",
+    "barcode": "2100013069624",
+    "itemName": "JBF Temaki Muc Sot Cay/1 Cai",
+    "baseOrderPrice": 11333.0
+  },
+  "261389": {
+    "itemCode": "261389",
+    "barcode": "8936076270356",
+    "itemName": "SAVOURE Banh Sau Kem 70g/1 Goi",
+    "baseOrderPrice": 7900.0
+  },
+  "301923": {
+    "itemCode": "301923",
+    "barcode": "2100013019230",
+    "itemName": "CK Nguyen Lieu He/ Ngo 100g/1 Phan",
+    "baseOrderPrice": 3000.0
+  },
+  "Code": {
+    "itemCode": "Code",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "150946": {
+    "itemCode": "150946",
+    "barcode": "CK29110007",
+    "itemName": "CK Mi Tron/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "151366": {
+    "itemCode": "151366",
+    "barcode": "CK31020007",
+    "itemName": "NESTEA Tra Chanh M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "151665": {
+    "itemCode": "151665",
+    "barcode": "CK29110021",
+    "itemName": "CK Trung Luoc/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "152061": {
+    "itemCode": "152061",
+    "barcode": "CK29070001",
+    "itemName": "CK Banh Mi Op La/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "153374": {
+    "itemCode": "153374",
+    "barcode": "CK09000026",
+    "itemName": "TL Nap Ly PP Phi 117 Tron/1 Cai",
+    "baseOrderPrice": 230.0
+  },
+  "153421": {
+    "itemCode": "153421",
+    "barcode": "CK09000035",
+    "itemName": "CK Quai Xach Ly/1 Cai",
+    "baseOrderPrice": 230.0
+  },
+  "153455": {
+    "itemCode": "153455",
+    "barcode": "CK09000031",
+    "itemName": "THH Dia Chua Tuong/1 Cai",
+    "baseOrderPrice": 65.0
+  },
+  "157899": {
+    "itemCode": "157899",
+    "barcode": "2100001578992",
+    "itemName": "CK Mi Tron Trung/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "160614": {
+    "itemCode": "160614",
+    "barcode": "2100001606145",
+    "itemName": "CK Ca Phe Pha Phin Den Da Don 12oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "160622": {
+    "itemCode": "160622",
+    "barcode": "2100001606220",
+    "itemName": "CK Ca Phe Pha Phin Sua Da Don 12oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "161026": {
+    "itemCode": "161026",
+    "barcode": "2100001610265",
+    "itemName": "MILO Thuc Uong Lua Mach M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "164618": {
+    "itemCode": "164618",
+    "barcode": "2110001646188",
+    "itemName": "CK Trung Op La/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "167365": {
+    "itemCode": "167365",
+    "barcode": "2100001673659",
+    "itemName": "CK Ly Da M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "167454": {
+    "itemCode": "167454",
+    "barcode": "8935015510508",
+    "itemName": "BIEN HOA Duong 1Kg/ 1 Goi",
+    "baseOrderPrice": 28638.0
+  },
+  "168052": {
+    "itemCode": "168052",
+    "barcode": "8935024115169",
+    "itemName": "TRUNG NGUYEN Ca Phe Chu S 500g/1 Goi",
+    "baseOrderPrice": 70797.8
+  },
+  "168206": {
+    "itemCode": "168206",
+    "barcode": "2100001682064",
+    "itemName": "CK Banh Mi/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "168840": {
+    "itemCode": "168840",
+    "barcode": "2100001688400",
+    "itemName": "CK Banh Mi Hot Dog 70g/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "197899": {
+    "itemCode": "197899",
+    "barcode": "2100011978997",
+    "itemName": "PhaTea Tra Sua Thai Xanh M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "197904": {
+    "itemCode": "197904",
+    "barcode": "2100011979048",
+    "itemName": "PhaTea Tra Sua Thai Do M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "202042": {
+    "itemCode": "202042",
+    "barcode": "2100012020428",
+    "itemName": "CK Nuoc Da Tinh Khiet (GM) 2 kgs/ 1 Goi",
+    "baseOrderPrice": 0.0
+  },
+  "202296": {
+    "itemCode": "202296",
+    "barcode": "2100012022965",
+    "itemName": "CK Xuc Xich Mini 3 Vien/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "202301": {
+    "itemCode": "202301",
+    "barcode": "2100012023016",
+    "itemName": "CK Mi Tron Trung Xuc Xich Mini/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "202335": {
+    "itemCode": "202335",
+    "barcode": "2100012023351",
+    "itemName": "CK Mi Tron Xuc Xich Mini/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "204109": {
+    "itemCode": "204109",
+    "barcode": "2100012041096",
+    "itemName": "Bich Nilon Dung Da (25*40cm) 1Kg/1 Unit",
+    "baseOrderPrice": 47000.0
+  },
+  "214528": {
+    "itemCode": "214528",
+    "barcode": "2100012145282",
+    "itemName": "CK Trung Ga Song Mot Trai/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "217584": {
+    "itemCode": "217584",
+    "barcode": "2100012175845",
+    "itemName": "CK Bac Xiu Da S 12oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "225139": {
+    "itemCode": "225139",
+    "barcode": "2100012251396",
+    "itemName": "CK Xuc Xich Xong Khoi/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "225147": {
+    "itemCode": "225147",
+    "barcode": "2100012251471",
+    "itemName": "CK Hotdog Xong Khoi/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "232518": {
+    "itemCode": "232518",
+    "barcode": "2100012325189",
+    "itemName": "PhaTea STH Tra Dao 22oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "232526": {
+    "itemCode": "232526",
+    "barcode": "2100012325264",
+    "itemName": "MILO Thuc Uong Lua Mach L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "232534": {
+    "itemCode": "232534",
+    "barcode": "2100012325349",
+    "itemName": "NESTEA Tra Chanh L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "232542": {
+    "itemCode": "232542",
+    "barcode": "2100012325424",
+    "itemName": "PhaTea Tra Sua Thai Xanh L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "234112": {
+    "itemCode": "234112",
+    "barcode": "2100012341127",
+    "itemName": "CK Mi Tron Indomie/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "240985": {
+    "itemCode": "240985",
+    "barcode": "2100012409858",
+    "itemName": "CK Ly Nhua L (50 cai x 22oz)/1 Goi",
+    "baseOrderPrice": 43250.0
+  },
+  "241232": {
+    "itemCode": "241232",
+    "barcode": "2100012412322",
+    "itemName": "CBAS Pha Phin CF Sua 12oz & Bmi.Trung/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "246517": {
+    "itemCode": "246517",
+    "barcode": "2100012465175",
+    "itemName": "SJORA Xoai Dao M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "246525": {
+    "itemCode": "246525",
+    "barcode": "2100012465250",
+    "itemName": "SJORA Xoai Dao L/1 Ly ",
+    "baseOrderPrice": 0.0
+  },
+  "247898": {
+    "itemCode": "247898",
+    "barcode": "2100012478984",
+    "itemName": "TP Xoi La Chuoi/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "249557": {
+    "itemCode": "249557",
+    "barcode": "2100012495578",
+    "itemName": "CK Khuyen Mai/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "251588": {
+    "itemCode": "251588",
+    "barcode": "2100012515887",
+    "itemName": "PhaTea STH Tra Dao 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "251994": {
+    "itemCode": "251994",
+    "barcode": "2100012519946",
+    "itemName": "CK Banh Mi Xuc Xich Xong Khoi/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "254057": {
+    "itemCode": "254057",
+    "barcode": "2100012540575",
+    "itemName": "CK Banh Mi Op La 2 Trung/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "254065": {
+    "itemCode": "254065",
+    "barcode": "2100012540650",
+    "itemName": "CK Mi Tron Trung Xuc Xich Xong Khoi/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "254170": {
+    "itemCode": "254170",
+    "barcode": "2100012541701",
+    "itemName": "Set Nang Luong (MiTrungTr.Chanh L)",
+    "baseOrderPrice": 0.0
+  },
+  "258776": {
+    "itemCode": "258776",
+    "barcode": "2100012587761",
+    "itemName": "CBCS PhaPhin CF Sua12oz&BanhGio Thit/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "265773": {
+    "itemCode": "265773",
+    "barcode": "2100012657730",
+    "itemName": "MILO Thuc Uong Lua Mach XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "265781": {
+    "itemCode": "265781",
+    "barcode": "2100012657815",
+    "itemName": "NESTEA Tra Chanh XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "265804": {
+    "itemCode": "265804",
+    "barcode": "2100012658041",
+    "itemName": "SJORA Xoai Dao XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "265812": {
+    "itemCode": "265812",
+    "barcode": "2100012658126",
+    "itemName": "PhaTea Tra Sua Thai Xanh XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "269816": {
+    "itemCode": "269816",
+    "barcode": "2100012698160",
+    "itemName": "PhaTea STH Tra Sua Olong M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "269824": {
+    "itemCode": "269824",
+    "barcode": "2100012698245",
+    "itemName": "PhaTea STH Tra Sua Olong L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "269832": {
+    "itemCode": "269832",
+    "barcode": "8938511301281",
+    "itemName": "THOM Tra Tac 330ml*1BT",
+    "baseOrderPrice": 8545.0
+  },
+  "269840": {
+    "itemCode": "269840",
+    "barcode": "2100012698405",
+    "itemName": "PhaTea STH Tra Tac M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "269858": {
+    "itemCode": "269858",
+    "barcode": "2100012698580",
+    "itemName": "PhaTea STH Tra Tac L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "271520": {
+    "itemCode": "271520",
+    "barcode": "2100012715201",
+    "itemName": "PhaTea STH Tra Sua Olong XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "271538": {
+    "itemCode": "271538",
+    "barcode": "2100012715386",
+    "itemName": "PhaTea STH Tra Tac XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "271546": {
+    "itemCode": "271546",
+    "barcode": "2100012715461",
+    "itemName": "PhaTea STH Tra Dao 35oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "272225": {
+    "itemCode": "272225",
+    "barcode": "2100012722254",
+    "itemName": "Set No Ne (IndomieTrung/Tr.Chanh L)",
+    "baseOrderPrice": 0.0
+  },
+  "273140": {
+    "itemCode": "273140",
+    "barcode": "2900012731405",
+    "itemName": "CK Ly Da L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "300785": {
+    "itemCode": "300785",
+    "barcode": "2100013007855",
+    "itemName": "PhaPhin Sua Tuoi XL/1 Ly (STH)",
+    "baseOrderPrice": 0.0
+  },
+  "300850": {
+    "itemCode": "300850",
+    "barcode": "2100013008500",
+    "itemName": "PhaTea STH Tra Sua Than Tre M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "300851": {
+    "itemCode": "300851",
+    "barcode": "2100013008517",
+    "itemName": "PhaTea STH Tra Sua Than Tre L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "300852": {
+    "itemCode": "300852",
+    "barcode": "2100013008524",
+    "itemName": "PhaTea STH Tra Sua Than Tre XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "300933": {
+    "itemCode": "300933",
+    "barcode": "2100013009330",
+    "itemName": "CK Ly Da XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "301628": {
+    "itemCode": "301628",
+    "barcode": "2100013016284",
+    "itemName": "TP Xoi Cha Bong Lap Xuong 145g N/ 1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301881": {
+    "itemCode": "301881",
+    "barcode": "2100013018813",
+    "itemName": "CK Banh Mi Xuc Xich Pho Mai/ 1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301882": {
+    "itemCode": "301882",
+    "barcode": "2100013018820",
+    "itemName": "CK Banh Mi Xuc Xich Heo/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301883": {
+    "itemCode": "301883",
+    "barcode": "2100013018837",
+    "itemName": "CK Banh Mi Xuc Xich Cay/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301884": {
+    "itemCode": "301884",
+    "barcode": "2100013018844",
+    "itemName": "CK Xuc Xich Bo/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "301886": {
+    "itemCode": "301886",
+    "barcode": "2100013018868",
+    "itemName": "CK Xuc Xich Pho Mai/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "301887": {
+    "itemCode": "301887",
+    "barcode": "2100013018875",
+    "itemName": "CK Xuc Xich Heo/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "301888": {
+    "itemCode": "301888",
+    "barcode": "2100013018882",
+    "itemName": "CK Xuc Xich Cay/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "301891": {
+    "itemCode": "301891",
+    "barcode": "2100013018912",
+    "itemName": "CK Mi Tron Trung Xuc Xich Bo/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "301892": {
+    "itemCode": "301892",
+    "barcode": "2100013018929",
+    "itemName": "CK Mi Tron Trung Xuc Xich Pho Mai/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "301893": {
+    "itemCode": "301893",
+    "barcode": "2100013018936",
+    "itemName": "CK Mi Tron Trung Xuc Xich Heo/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "301894": {
+    "itemCode": "301894",
+    "barcode": "2100013018943",
+    "itemName": "CK Mi Tron Trung Xuc Xich Cay/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "301895": {
+    "itemCode": "301895",
+    "barcode": "2100013018950",
+    "itemName": "PhaTea Tra Sua Thai Do XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "301896": {
+    "itemCode": "301896",
+    "barcode": "2100013018967",
+    "itemName": "PhaTea Tra Sua Thai Do L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "301906": {
+    "itemCode": "301906",
+    "barcode": "2100013019063",
+    "itemName": "CK Hotdog Bo/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301907": {
+    "itemCode": "301907",
+    "barcode": "2100013019070",
+    "itemName": "CK Hotdog Pho mai/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301908": {
+    "itemCode": "301908",
+    "barcode": "2100013019087",
+    "itemName": "CK Hotdog Heo/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301913": {
+    "itemCode": "301913",
+    "barcode": "2100013019131",
+    "itemName": "CK Hotdog Cay/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "301920": {
+    "itemCode": "301920",
+    "barcode": "2100013019209",
+    "itemName": "CK Nguyen Lieu Dua Chuot 100g/1 Phan",
+    "baseOrderPrice": 1800.0
+  },
+  "301921": {
+    "itemCode": "301921",
+    "barcode": "2100013019216",
+    "itemName": "CK Nguyen Lieu Ca Chua 100g/1 Phan",
+    "baseOrderPrice": 2700.0
+  },
+  "302245": {
+    "itemCode": "302245",
+    "barcode": "2100013022452",
+    "itemName": "TP Banh Gio Thit 150g/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "302255": {
+    "itemCode": "302255",
+    "barcode": "2100013022551",
+    "itemName": "TP Banh Bao Than Tre Phomai 50g/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "302741": {
+    "itemCode": "302741",
+    "barcode": "2100013027419",
+    "itemName": "CK Tran Chau Trang 50g/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "303150": {
+    "itemCode": "303150",
+    "barcode": "2100013031508",
+    "itemName": "TP Banh Gio Ga 150g/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "303462": {
+    "itemCode": "303462",
+    "barcode": "2100013034622",
+    "itemName": "PhaPhin CF ST Bac Ha 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303510": {
+    "itemCode": "303510",
+    "barcode": "2100013035100",
+    "itemName": "PhaPhin Den Da M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303511": {
+    "itemCode": "303511",
+    "barcode": "2100013035117",
+    "itemName": "PhaPhin Sua Da M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303512": {
+    "itemCode": "303512",
+    "barcode": "2100013035124",
+    "itemName": "PhaPhin Sua Tuoi M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303513": {
+    "itemCode": "303513",
+    "barcode": "2100013035131",
+    "itemName": "PhaPhin Sua Tuoi L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303514": {
+    "itemCode": "303514",
+    "barcode": "2100013035148",
+    "itemName": "PhaPhin Bac Xiu M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303534": {
+    "itemCode": "303534",
+    "barcode": "2100013035346",
+    "itemName": "CK Xuc Xich Bo Pho Mai Cao Cap 50g/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "303555": {
+    "itemCode": "303555",
+    "barcode": "2100013035551",
+    "itemName": "Set Tinh Tao (B.Mi 2 Trung/CFSua M)",
+    "baseOrderPrice": 0.0
+  },
+  "303564": {
+    "itemCode": "303564",
+    "barcode": "2100013035643",
+    "itemName": "NESTEA Tra Vai Lai M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303565": {
+    "itemCode": "303565",
+    "barcode": "2100013035650",
+    "itemName": "NESTEA Tra Vai Lai L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303609": {
+    "itemCode": "303609",
+    "barcode": "2100013036091",
+    "itemName": "PhaPhin ST Chocolate Cookie M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303615": {
+    "itemCode": "303615",
+    "barcode": "2100013036152",
+    "itemName": "PhaPhin ST Cheesecake M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303643": {
+    "itemCode": "303643",
+    "barcode": "2100013036435",
+    "itemName": "HSV BMQ ruoc ga trung muoi 80g",
+    "baseOrderPrice": 11500.0
+  },
+  "303690": {
+    "itemCode": "303690",
+    "barcode": "2100013036909",
+    "itemName": "CK Mi Tron Muoi Ot/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "303732": {
+    "itemCode": "303732",
+    "barcode": "2100013037326",
+    "itemName": "PhaPhin ST Tiramisu M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303785": {
+    "itemCode": "303785",
+    "barcode": "2100013037852",
+    "itemName": "CK Xuc Xich Deli/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "303922": {
+    "itemCode": "303922",
+    "barcode": "2100013039221",
+    "itemName": "CK SODA Oi Hong 22oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303923": {
+    "itemCode": "303923",
+    "barcode": "2100013039238",
+    "itemName": "CK SODA Dua Luoi 22oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "303961": {
+    "itemCode": "303961",
+    "barcode": "2100013039610",
+    "itemName": "CK Banh Mi Ga Xe & Cha Lua/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "304003": {
+    "itemCode": "304003",
+    "barcode": "2100013040036",
+    "itemName": "CK Ca Phe Sua Chuoi 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304058": {
+    "itemCode": "304058",
+    "barcode": "2100013040586",
+    "itemName": "PhaPhin CF Muoi M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304176": {
+    "itemCode": "304176",
+    "barcode": "2100013041767",
+    "itemName": "CK Cha Ca Ot Xiem Xanh Cay 70g/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304177": {
+    "itemCode": "304177",
+    "barcode": "2100013041774",
+    "itemName": "CK Xuc Xich Ga Sa Ot 70g/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304210": {
+    "itemCode": "304210",
+    "barcode": "2100013042108",
+    "itemName": "PhaPhin CFST Khoai Lang Tim 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304277": {
+    "itemCode": "304277",
+    "barcode": "2100013042771",
+    "itemName": "CK Xoi Xeo 133g/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "304279": {
+    "itemCode": "304279",
+    "barcode": "2100013042795",
+    "itemName": "CK Banh Duc 193g/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "304402": {
+    "itemCode": "304402",
+    "barcode": "2100013044027",
+    "itemName": "CK Xiu Mai 130g/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "304409": {
+    "itemCode": "304409",
+    "barcode": "2100013044096",
+    "itemName": "CK Xuc Xich Ho Lo 70g/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304410": {
+    "itemCode": "304410",
+    "barcode": "2100013044102",
+    "itemName": "CK Bo La Lot 70g/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304411": {
+    "itemCode": "304411",
+    "barcode": "2100013044119",
+    "itemName": "CK Nem Nuong 50g/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304415": {
+    "itemCode": "304415",
+    "barcode": "2100013044157",
+    "itemName": "PhaTea STH Tra Sua Nhai M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304416": {
+    "itemCode": "304416",
+    "barcode": "2100013044164",
+    "itemName": "PhaTea STH Tra Sua Nhai L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304443": {
+    "itemCode": "304443",
+    "barcode": "2100013044430",
+    "itemName": "CK Lau Thai/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "304489": {
+    "itemCode": "304489",
+    "barcode": "2100013044898",
+    "itemName": "CK Da me 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304527": {
+    "itemCode": "304527",
+    "barcode": "2100013045277",
+    "itemName": "CK Ca Phe Kem Trung 16oz/ 1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304588": {
+    "itemCode": "304588",
+    "barcode": "2100013045888",
+    "itemName": "CK STH Tra Sua Hanh Nhan M 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304589": {
+    "itemCode": "304589",
+    "barcode": "2100013045895",
+    "itemName": "CK STH Tra Sua Hanh Nhan L 22oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304594": {
+    "itemCode": "304594",
+    "barcode": "2100013045949",
+    "itemName": "TL Ly Nhua PP D95 - 12oz in PhaPhin (50 Cai)/1 Goi",
+    "baseOrderPrice": 26650.0
+  },
+  "304630": {
+    "itemCode": "304630",
+    "barcode": "2100013046304",
+    "itemName": "PhaTea Tra Tac Thai Do M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304631": {
+    "itemCode": "304631",
+    "barcode": "2100013046311",
+    "itemName": "PhaTea Tra Tac Thai Do L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304632": {
+    "itemCode": "304632",
+    "barcode": "2100013046328",
+    "itemName": "PhaTea Tra Tac Thai Do XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304633": {
+    "itemCode": "304633",
+    "barcode": "2100013046335",
+    "itemName": "PhaTea Tra Tac Thai Xanh M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304634": {
+    "itemCode": "304634",
+    "barcode": "2100013046342",
+    "itemName": "PhaTea Tra Tac Thai Xanh L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304635": {
+    "itemCode": "304635",
+    "barcode": "2100013046359",
+    "itemName": "PhaTea Tra Tac Thai Xanh XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304636": {
+    "itemCode": "304636",
+    "barcode": "2100013046366",
+    "itemName": "PhaTea STH Tra Sua Nhai XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304643": {
+    "itemCode": "304643",
+    "barcode": "2100013046434",
+    "itemName": "PhaPhin Sua Da S/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304644": {
+    "itemCode": "304644",
+    "barcode": "2100013046441",
+    "itemName": "PhaPhin Bac Xiu S/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304645": {
+    "itemCode": "304645",
+    "barcode": "2100013046458",
+    "itemName": "PhaPhin Den Da S/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304658": {
+    "itemCode": "304658",
+    "barcode": "2100013046588",
+    "itemName": "CK Ga Xien Nuong Kieu Nhat 45g/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304659": {
+    "itemCode": "304659",
+    "barcode": "2100013046595",
+    "itemName": "CK Cha Ca Bap 60g/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304666": {
+    "itemCode": "304666",
+    "barcode": "2100013046663",
+    "itemName": "CK Pizza Xuc Xich Pho Mai 115g/ 1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "304736": {
+    "itemCode": "304736",
+    "barcode": "2100013047363",
+    "itemName": "CK Ga Karaage 60g/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304737": {
+    "itemCode": "304737",
+    "barcode": "2100013047370",
+    "itemName": "CK Pho Mai Corndog 70g/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "304747": {
+    "itemCode": "304747",
+    "barcode": "2100013047479",
+    "itemName": "CK Canh Ga Chien/ 1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "304799": {
+    "itemCode": "304799",
+    "barcode": "2100013047998",
+    "itemName": "CK Tra Sua Uyen Uong M 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304800": {
+    "itemCode": "304800",
+    "barcode": "2100013048001",
+    "itemName": "CK Tra Sua Uyen Uong L 22oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304801": {
+    "itemCode": "304801",
+    "barcode": "2100013048018",
+    "itemName": "CK Tra Sua Uyen Uong XL 35oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304897": {
+    "itemCode": "304897",
+    "barcode": "2100013048971",
+    "itemName": "PhaTea Tra Lai Dac Thom L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304964": {
+    "itemCode": "304964",
+    "barcode": "2100013049640",
+    "itemName": "PhaPhin CF ST Pinky 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "304965": {
+    "itemCode": "304965",
+    "barcode": "8936191319633",
+    "itemName": "TVP Siro Bac Ha 1000ml/ 1 Chai",
+    "baseOrderPrice": 195000.0
+  },
+  "305010": {
+    "itemCode": "305010",
+    "barcode": "2100013050103",
+    "itemName": "CK Mi Tron Xot Tu Xuyen/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "305058": {
+    "itemCode": "305058",
+    "barcode": "2100013050585",
+    "itemName": "CK Banh Mi Cha Ca/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "305059": {
+    "itemCode": "305059",
+    "barcode": "8935302602299",
+    "itemName": "HOA SEN Cha Ca Soi 300g/1 Goi",
+    "baseOrderPrice": 45400.0
+  },
+  "305077": {
+    "itemCode": "305077",
+    "barcode": "2100013050776",
+    "itemName": "PhaPhin CF ST Hat De Cuoi 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305161": {
+    "itemCode": "305161",
+    "barcode": "2100013051612",
+    "itemName": "CK Xuc Xich Loc Xoay/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "305162": {
+    "itemCode": "305162",
+    "barcode": "2100013051629",
+    "itemName": "CK Lap Xuong Nuong Da/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "305175": {
+    "itemCode": "305175",
+    "barcode": "2100013051759",
+    "itemName": "CK Coffee Redemption code 16oz",
+    "baseOrderPrice": 0.0
+  },
+  "305241": {
+    "itemCode": "305241",
+    "barcode": "2100013052411",
+    "itemName": "PhaTea Thai Latte L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305306": {
+    "itemCode": "305306",
+    "barcode": "2100013053067",
+    "itemName": "PhaPhin ST Matcha M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305354": {
+    "itemCode": "305354",
+    "barcode": "2100013053548",
+    "itemName": "CK Ga Popcorn Lac Pho Mai/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "305470": {
+    "itemCode": "305470",
+    "barcode": "2100013054705",
+    "itemName": "TL Ly Nhua PP D95 16oz in PhaTea (50 cai)/1 Goi",
+    "baseOrderPrice": 34500.0
+  },
+  "305510": {
+    "itemCode": "305510",
+    "barcode": "2100013055108",
+    "itemName": "CK Ca Vien Chien Pho Mai/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "305511": {
+    "itemCode": "305511",
+    "barcode": "2100013055115",
+    "itemName": "CK Tom Vien Chien/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "305519": {
+    "itemCode": "305519",
+    "barcode": "2100013055191",
+    "itemName": "Fruit Time Huong Dau Rung XL 35oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305520": {
+    "itemCode": "305520",
+    "barcode": "2100013055207",
+    "itemName": "Fruit Time Huong Dau Rung L 22oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305521": {
+    "itemCode": "305521",
+    "barcode": "2100013055214",
+    "itemName": "Fruit Time Huong Dau Rung M 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305637": {
+    "itemCode": "305637",
+    "barcode": "2100013056372",
+    "itemName": "CK Cha Ca Soi An Kem 7 Soi/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "305642": {
+    "itemCode": "305642",
+    "barcode": "2100013056426",
+    "itemName": "CK Cha Muc Vien Chien/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "305698": {
+    "itemCode": "305698",
+    "barcode": "2100013056983",
+    "itemName": "CK Kem Matcha 40ml/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "305713": {
+    "itemCode": "305713",
+    "barcode": "2100013057133",
+    "itemName": "CK Thanh Cua Tempura/ 1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "305726": {
+    "itemCode": "305726",
+    "barcode": "2100013057263",
+    "itemName": "PhaTea Kult Thai Xanh L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305799": {
+    "itemCode": "305799",
+    "barcode": "2100013057997",
+    "itemName": "PhaPhin CF Sua Dua 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "305834": {
+    "itemCode": "305834",
+    "barcode": "2100013058345",
+    "itemName": "HOTPOT Xuc Xich Bach Tuoc/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "305835": {
+    "itemCode": "305835",
+    "barcode": "2100013058352",
+    "itemName": "HOTPOT Cha Ca Chikuwa Chanh Ot/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "305839": {
+    "itemCode": "305839",
+    "barcode": "2100013058390",
+    "itemName": "HOTPOT Cha Ca Han Quoc/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "305841": {
+    "itemCode": "305841",
+    "barcode": "2100013058413",
+    "itemName": "HOTPOT Va Nuoc Lau 50ml/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "305881": {
+    "itemCode": "305881",
+    "barcode": "2100013058819",
+    "itemName": "HOTPOT Ca Vien/2 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "305882": {
+    "itemCode": "305882",
+    "barcode": "2100013058826",
+    "itemName": "HOTPOT Ca Vien Loc Xoay/2 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "305883": {
+    "itemCode": "305883",
+    "barcode": "2100013058833",
+    "itemName": "HOTPOT Dau Hu Hai San/2 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "305913": {
+    "itemCode": "305913",
+    "barcode": "2100013059137",
+    "itemName": "PhaPhin ST Thai Xanh M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "306001": {
+    "itemCode": "306001",
+    "barcode": "2100013060010",
+    "itemName": "PhaTea Tra Me Muoi Ot STH L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "306131": {
+    "itemCode": "306131",
+    "barcode": "2100013061314",
+    "itemName": "CK Corndog Xuc Xich Pho Mai/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "306281": {
+    "itemCode": "306281",
+    "barcode": "2100013062816",
+    "itemName": "HOTPOT Cha Ca Hoa /1 Vien",
+    "baseOrderPrice": 0.0
+  },
+  "306400": {
+    "itemCode": "306400",
+    "barcode": "2100013064001",
+    "itemName": "HOTPOT Ca Vien Loc Xoay Pho Mai Wasabi/2 Vien",
+    "baseOrderPrice": 0.0
+  },
+  "306446": {
+    "itemCode": "306446",
+    "barcode": "2100013064469",
+    "itemName": "HOTPOT Dau Hu Ca Pho Mai/1 Vien",
+    "baseOrderPrice": 0.0
+  },
+  "306447": {
+    "itemCode": "306447",
+    "barcode": "2100013064476",
+    "itemName": "HOTPOT Tom Hum Vien/1 Vien",
+    "baseOrderPrice": 0.0
+  },
+  "306449": {
+    "itemCode": "306449",
+    "barcode": "9555123701286",
+    "itemName": "Sao Moc Ca Vien Vi Ca Hoi 500g/1 Goi",
+    "baseOrderPrice": 78500.0
+  },
+  "306450": {
+    "itemCode": "306450",
+    "barcode": "9555123701934",
+    "itemName": "Sao Moc Dau Hu Ca Pho Mai 500g/1 Goi",
+    "baseOrderPrice": 85200.0
+  },
+  "306451": {
+    "itemCode": "306451",
+    "barcode": "9556535720025",
+    "itemName": "Sao Moc Ca Vien Vi Tom Hum 500g/1 Goi",
+    "baseOrderPrice": 89300.0
+  },
+  "306466": {
+    "itemCode": "306466",
+    "barcode": "2100013064667",
+    "itemName": "Thap Tra Sua Thai Xanh/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "306606": {
+    "itemCode": "306606",
+    "barcode": "2100013066067",
+    "itemName": "PhaPhin CF Chuoi 16oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "306673": {
+    "itemCode": "306673",
+    "barcode": "8936219602266",
+    "itemName": "THIEN AN Cha Oc  60g/ 1 Goi",
+    "baseOrderPrice": 12090.0
+  },
+  "306631": {
+    "itemCode": "306631",
+    "barcode": "2100013066319",
+    "itemName": "CK Thit Nuong Pho Mai Kieu Thai/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "306752": {
+    "itemCode": "306752",
+    "barcode": "2100013067521",
+    "itemName": "CK Xuc Xich Pho Mai Hokkaido Cao Cap/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "306781": {
+    "itemCode": "306781",
+    "barcode": "2100013067811",
+    "itemName": "CK Hotdog Pho Mai X2/1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "306787": {
+    "itemCode": "306787",
+    "barcode": "2100013067873",
+    "itemName": "PhaTea Tra Mang Cau Tac Xi Muoi STH 22oz/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "306813": {
+    "itemCode": "306813",
+    "barcode": "2100013068139",
+    "itemName": "CK Ga Xien Nuong Kieu Thai/1 Cay ",
+    "baseOrderPrice": 0.0
+  },
+  "306814": {
+    "itemCode": "306814",
+    "barcode": "8935302602695",
+    "itemName": "Hoa Sen Ga Xien Nuong Kieu Thai 450g/1 Goi",
+    "baseOrderPrice": 98500.0
+  },
+  "306868": {
+    "itemCode": "306868",
+    "barcode": "2100013068689",
+    "itemName": "HOTPOT Combo Tiet Kiem/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "306869": {
+    "itemCode": "306869",
+    "barcode": "2100013068696",
+    "itemName": "HOTPOT Combo Dac Biet/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "306909": {
+    "itemCode": "306909",
+    "barcode": "2100013069099",
+    "itemName": "PhaPhin Bac Ha M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307025": {
+    "itemCode": "307025",
+    "barcode": "2100013070255",
+    "itemName": "PhaTea Tra Sua Matcha Olong STH L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307026": {
+    "itemCode": "307026",
+    "barcode": "2100013070262",
+    "itemName": "PhaTea Tra Sua Matcha Olong NTH L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307084": {
+    "itemCode": "307084",
+    "barcode": "8936212182048",
+    "itemName": "KODOCHI Tra Sua Matcha Olong 250ml/1 Chai",
+    "baseOrderPrice": 12000.0
+  },
+  "307094": {
+    "itemCode": "307094",
+    "barcode": "2100013070941",
+    "itemName": "CK Ga Nuong Dia Trung Hai/1 Cay",
+    "baseOrderPrice": 0.0
+  },
+  "307095": {
+    "itemCode": "307095",
+    "barcode": "8935302602763",
+    "itemName": "Hoa Sen Ga Xien Nuong Dia Trung Hai 450g/1 Goi",
+    "baseOrderPrice": 96300.0
+  },
+  "307097": {
+    "itemCode": "307097",
+    "barcode": "2100013070972",
+    "itemName": "CK Mi Tron Indo/ 1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "307098": {
+    "itemCode": "307098",
+    "barcode": "2100013070989",
+    "itemName": "Set No Ne 2/ Phan",
+    "baseOrderPrice": 0.0
+  },
+  "307110": {
+    "itemCode": "307110",
+    "barcode": "2100013071108",
+    "itemName": "PhaPhin CF Sua Da KM Size S/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307111": {
+    "itemCode": "307111",
+    "barcode": "2100013071115",
+    "itemName": "PhaTea Tra Sua Thai Xanh KM size M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307129": {
+    "itemCode": "307129",
+    "barcode": "2100013071290",
+    "itemName": "PhaTea Soda Nho Xanh CAN M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307130": {
+    "itemCode": "307130",
+    "barcode": "2100013071306",
+    "itemName": "PhaTea Soda Yuzu ISI M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307131": {
+    "itemCode": "307131",
+    "barcode": "2100013071313",
+    "itemName": "PhaTea Soda Yuzu CAN M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307132": {
+    "itemCode": "307132",
+    "barcode": "2100013071320",
+    "itemName": "PhaTea Soda Cam Do ISI M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307133": {
+    "itemCode": "307133",
+    "barcode": "2100013071337",
+    "itemName": "PhaTea Soda Cam Do CAN M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307135": {
+    "itemCode": "307135",
+    "barcode": "8935282909005",
+    "itemName": "ANDROS Fruit Mix Yuzu 820ml/1 Chai",
+    "baseOrderPrice": 187000.0
+  },
+  "307136": {
+    "itemCode": "307136",
+    "barcode": "8935282909920",
+    "itemName": "ANDROS Fruit Mix Cam Do 820ml/1 Chai",
+    "baseOrderPrice": 175000.0
+  },
+  "307144": {
+    "itemCode": "307144",
+    "barcode": "2100013071443",
+    "itemName": "PhaPhin Soda CF Yuzu M/1 Ly_CAN",
+    "baseOrderPrice": 0.0
+  },
+  "307145": {
+    "itemCode": "307145",
+    "barcode": "2100013071450",
+    "itemName": "PhaPhin Soda CF Nho Xanh M/1 Ly_CAN",
+    "baseOrderPrice": 0.0
+  },
+  "307146": {
+    "itemCode": "307146",
+    "barcode": "2100013071467",
+    "itemName": "PhaPhin Soda CF Cam Do M/1 Ly_CAN",
+    "baseOrderPrice": 0.0
+  },
+  "307174": {
+    "itemCode": "307174",
+    "barcode": "2100013071740",
+    "itemName": "HOTPOT Thanh Cua/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "307371": {
+    "itemCode": "307371",
+    "barcode": "2100013073713",
+    "itemName": "Dimsum Ha Cao Tom (5pcs)/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "307374": {
+    "itemCode": "307374",
+    "barcode": "2100013073744",
+    "itemName": "Dimsum Tam Sac (5pcs)/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "307379": {
+    "itemCode": "307379",
+    "barcode": "2100013073799",
+    "itemName": "Bakery Banh Mi Me Han Quoc /1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "307380": {
+    "itemCode": "307380",
+    "barcode": "2100013073805",
+    "itemName": "Bakery Calzone Nhan Thit /1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "307381": {
+    "itemCode": "307381",
+    "barcode": "2100013073812",
+    "itemName": "Bakery Calzone Pho Mai Ca Chua /1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "307400": {
+    "itemCode": "307400",
+    "barcode": "2100013074000",
+    "itemName": "Bakery Banh Mi Bo Toi Han Quoc /1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "307403": {
+    "itemCode": "307403",
+    "barcode": "2100013074031",
+    "itemName": "PhaPhin La Nep M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307414": {
+    "itemCode": "307414",
+    "barcode": "2100013074147",
+    "itemName": "Bakery Banh Mochi Socola /1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "307415": {
+    "itemCode": "307415",
+    "barcode": "2100013074154",
+    "itemName": "Bakery Banh Khoai Lang Pho Mai /1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "307445": {
+    "itemCode": "307445",
+    "barcode": "2100013074451",
+    "itemName": "CK Ly Da PP KM M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307455": {
+    "itemCode": "307455",
+    "barcode": "2100013074550",
+    "itemName": "PhaTea TS Matcha Hanh Nhan STH L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307457": {
+    "itemCode": "307457",
+    "barcode": "2100013074574",
+    "itemName": "PhaTea Tra Sua La Nep L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307580": {
+    "itemCode": "307580",
+    "barcode": "2100013075809",
+    "itemName": "PHATEA Tra Sua Nhai STH M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307581": {
+    "itemCode": "307581",
+    "barcode": "2100013075816",
+    "itemName": "PHATEA Tra Sua Nhai STH L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307586": {
+    "itemCode": "307586",
+    "barcode": "2100013075861",
+    "itemName": "HOTPOT Bap Cai Cuon Tom 25g/1 Phan",
+    "baseOrderPrice": 0.0
+  },
+  "307642": {
+    "itemCode": "307642",
+    "barcode": "2100013076424",
+    "itemName": "PHATEA STH Matcha Latte L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307643": {
+    "itemCode": "307643",
+    "barcode": "2100013076431",
+    "itemName": "PHATEA STH May Hong Latte L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307644": {
+    "itemCode": "307644",
+    "barcode": "2100013076448",
+    "itemName": "PHATEA STH May Hong Matcha Latte L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307786": {
+    "itemCode": "307786",
+    "barcode": "2100013077865",
+    "itemName": "PHATEA Tra Tac STH M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307709": {
+    "itemCode": "307709",
+    "barcode": "2100013077094",
+    "itemName": "Bakery Croissant Bo Toi 1 Cai",
+    "baseOrderPrice": 0.0
+  },
+  "307787": {
+    "itemCode": "307787",
+    "barcode": "2100013077872",
+    "itemName": "PHATEA Tra Tac STH L/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307788": {
+    "itemCode": "307788",
+    "barcode": "2100013077889",
+    "itemName": "PHATEA Tra Tac STH XL/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "307792": {
+    "itemCode": "307792",
+    "barcode": "2100013077926",
+    "itemName": "PHATEA Tra Sua Matcha Olong M/1 Ly",
+    "baseOrderPrice": 0.0
+  },
+  "254023": {
+    "itemCode": "254023",
+    "barcode": "2100012540230",
+    "itemName": "TP Banh Bao Xa Xiu & Trung 190g/1 Cai",
+    "baseOrderPrice": 20370.0
+  },
+  "306819": {
+    "itemCode": "306819",
+    "barcode": "2100013068191",
+    "itemName": "JBF Sandwich Trung/1 Cai",
+    "baseOrderPrice": 12000.0
+  },
+  "303644": {
+    "itemCode": "303644",
+    "barcode": "2100013036442",
+    "itemName": "HSV BMQ Thit xong khoi, Bo toi, pho mai 80g",
+    "baseOrderPrice": 12000.0
+  },
+  "221907": {
+    "itemCode": "221907",
+    "barcode": "8936076270240",
+    "itemName": "SAVOURE Banh Bong Lan Chuoi 80g/1 Goi",
+    "baseOrderPrice": 7900.0
+  },
+  "303742": {
+    "itemCode": "303742",
+    "barcode": "8936114081098",
+    "itemName": "COOL AIR Keo Gum Vien Vi Bac Ha 40g/1 Hop",
+    "baseOrderPrice": 32603.0
+  },
+  "300750": {
+    "itemCode": "300750",
+    "barcode": "8936114080558",
+    "itemName": "COOL AIR Gum Bac Ha Chanh Mat Ong 58,4g/1 Hu",
+    "baseOrderPrice": 23307.0
+  },
+  "304316": {
+    "itemCode": "304316",
+    "barcode": "8936114080961",
+    "itemName": "COOL AIR Gum Vi Qua Mong 58.4g/1 Hu",
+    "baseOrderPrice": 23307.0
+  },
+  "191576": {
+    "itemCode": "191576",
+    "barcode": "80768258",
+    "itemName": "KINDER JOY So Co La Trung Be Gai 20g/1 CAI",
+    "baseOrderPrice": 24907.0
+  },
+  "190512": {
+    "itemCode": "190512",
+    "barcode": "9556001227539",
+    "itemName": "KITKAT So Co La Banh Xop Tra Xanh 35g/1 Thanh",
+    "baseOrderPrice": 22713.0
+  },
+  "102468": {
+    "itemCode": "102468",
+    "barcode": "9300682001304",
+    "itemName": "M&M So Co La Sua 90g/1 Goi",
+    "baseOrderPrice": 39988.0
+  },
+  "102432": {
+    "itemCode": "102432",
+    "barcode": "9300682001311",
+    "itemName": "M&M So Co La Sua Dau Phong 90g/1 Goi",
+    "baseOrderPrice": 39988.0
+  },
+  "103395": {
+    "itemCode": "103395",
+    "barcode": "7614500010013",
+    "itemName": "TOBLERONE So Co La Sua 100g/1 Thanh",
+    "baseOrderPrice": 51839.0
+  },
+  "253988": {
+    "itemCode": "253988",
+    "barcode": "6914973607729",
+    "itemName": "SNICKERS So Co La Yen Mach Hat De 40g/1 Thanh",
+    "baseOrderPrice": 18292.0
+  },
+  "183971": {
+    "itemCode": "183971",
+    "barcode": "8935032010739",
+    "itemName": "TUAN DAT Hat Dieu Lua 150g/1 Hop",
+    "baseOrderPrice": 57000.0
+  },
+  "306963": {
+    "itemCode": "306963",
+    "barcode": "2100013069631",
+    "itemName": "JBF Temaki Ga Karaage Sot Pho Mai/1 Cai",
+    "baseOrderPrice": 11333.0
+  },
+  "300771": {
+    "itemCode": "300771",
+    "barcode": "2100013007718",
+    "itemName": "JBF Mi Ga Cay Pho Mai Han Quoc 267g/1 Hop",
+    "baseOrderPrice": 23333.0
+  },
+  "306477": {
+    "itemCode": "306477",
+    "barcode": "2100013064773",
+    "itemName": "HSV Banh Mi Que Ga Nuong Pho Mai/1 cai",
+    "baseOrderPrice": 12000.0
+  },
+  "272835": {
+    "itemCode": "272835",
+    "barcode": "8936029160215",
+    "itemName": "CHOCO ROCK SCL H.H.Duong 65g/ 1 Goi",
+    "baseOrderPrice": 21909.0
+  },
+  "305522": {
+    "itemCode": "305522",
+    "barcode": "6976611080448",
+    "itemName": "MAYEEF Banh Tam Giac Vi Tra Xanh 90g/1 Goi",
+    "baseOrderPrice": 12320.0
+  },
+  "305345": {
+    "itemCode": "305345",
+    "barcode": "8888077105765",
+    "itemName": "CHOCOROOMS So Co La Vi Dau 36g/1 Hop",
+    "baseOrderPrice": 27394.0
+  },
+  "228501": {
+    "itemCode": "228501",
+    "barcode": "9555192508786",
+    "itemName": "WRIGLEY'S DOUBLEMINT Keo Nhai Huong Chanh 80g/1 Hu",
+    "baseOrderPrice": 36514.0
+  },
+  "305344": {
+    "itemCode": "305344",
+    "barcode": "8888077105727",
+    "itemName": "CHOCOROOMS So Co La Sua 40g/1 Hop",
+    "baseOrderPrice": 27394.0
+  },
+  "305640": {
+    "itemCode": "305640",
+    "barcode": "2100013056402",
+    "itemName": "JBF Com Bo Nuong Han Quoc/1 Hop",
+    "baseOrderPrice": 22000.0
+  },
+  "307784": {
+    "itemCode": "307784",
+    "barcode": "8938511301359",
+    "itemName": "THOM Tra Tac 500ml/1 Chai",
+    "baseOrderPrice": 13800.0
+  },
+  "307151": {
+    "itemCode": "307151",
+    "barcode": "2100013071511",
+    "itemName": "HD Sandwich Pizza Hai San Couple Cheese/1 Cai",
+    "baseOrderPrice": 17200.0
+  },
+  "242157": {
+    "itemCode": "242157",
+    "barcode": "2100012421577",
+    "itemName": "MVP Dui Ga Nuong Vi Cay/1 Goi",
+    "baseOrderPrice": 27000.0
+  },
+  "306478": {
+    "itemCode": "306478",
+    "barcode": "2100013064780",
+    "itemName": "HSV Banh Mi Que Pate Cha Bong/1 cai",
+    "baseOrderPrice": 11000.0
+  },
+  "301825": {
+    "itemCode": "301825",
+    "barcode": "2100013018257",
+    "itemName": "JBF Com Nam Thanh Cua Mayo 100g/1 Cai",
+    "baseOrderPrice": 9701.0
+  },
+  "305563": {
+    "itemCode": "305563",
+    "barcode": "8935299640533",
+    "itemName": "COBI Banh Mi Kem Tuoi Matcha 75g/1 Goi",
+    "baseOrderPrice": 18608.0
+  },
+  "Item Code": {
+    "itemCode": "Item Code",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "8936079123895": {
+    "itemCode": "8936079123895",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "6975073835276": {
+    "itemCode": "6975073835276",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "6975073835238": {
+    "itemCode": "6975073835238",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "8936079124977": {
+    "itemCode": "8936079124977",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "8936204410043": {
+    "itemCode": "8936204410043",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "02111444": {
+    "itemCode": "02111444",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "6976611080448": {
+    "itemCode": "6976611080448",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "8888077105765": {
+    "itemCode": "8888077105765",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "8888077105727": {
+    "itemCode": "8888077105727",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "4600682003212": {
+    "itemCode": "4600682003212",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "4600682000785": {
+    "itemCode": "4600682000785",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "4901004002457": {
+    "itemCode": "4901004002457",
+    "error": "'str' object has no attribute 'get'"
+  },
+  "305056": {
+    "itemCode": "305056",
+    "barcode": "4600682000785",
+    "itemName": "BALTIKA Bia So 9 450ml/1 Lon",
+    "baseOrderPrice": 27272.73
+  },
+  "305586": {
+    "itemCode": "305586",
+    "barcode": "4600682003212",
+    "itemName": "BALTIKA Bia So 0 Lua Mi Khong Con 450ml/1 Lon",
+    "baseOrderPrice": 24965.0
+  },
+  "198609": {
+    "itemCode": "198609",
+    "barcode": "8936000442064",
+    "itemName": "TRUC BACH Bia 330ml/1 Lon",
+    "baseOrderPrice": 15492.08
+  },
+  "307835": {
+    "itemCode": "307835",
+    "barcode": "2100013078350",
+    "itemName": "HSV Toastie Ga Pho Mai/1 Cai",
+    "baseOrderPrice": 15500.0
+  },
+  "307836": {
+    "itemCode": "307836",
+    "barcode": "2100013078367",
+    "itemName": "HSV Toastie Cha Bong Sa Te Thai/1 Cai",
+    "baseOrderPrice": 16000.0
+  },
+  "306654": {
+    "itemCode": "306654",
+    "barcode": "2100013066548",
+    "itemName": "HD Com Nam Bo Nuong Pho Mai/1 Cai",
+    "baseOrderPrice": 12300.0
+  },
+  "307705": {
+    "itemCode": "307705",
+    "barcode": "8935299653816",
+    "itemName": "COBI Banh Mi Soboro Kem Tra Xanh 46g/1 Goi",
+    "baseOrderPrice": 16042.0
+  },
+  "307706": {
+    "itemCode": "307706",
+    "barcode": "8935299653830",
+    "itemName": "COBI Banh Mi Soboro Kem Banh Quy 46g/1 Goi",
+    "baseOrderPrice": 16042.0
+  },
+  "306615": {
+    "itemCode": "306615",
+    "barcode": "8936080490214",
+    "itemName": "A&C Pudding Tra Xanh 85g/ 1 Hop",
+    "baseOrderPrice": 12600.0
+  },
+  "244947": {
+    "itemCode": "244947",
+    "barcode": "2100012449472",
+    "itemName": "JBF Sandwich Ga Teriyaki & Thit/1 Cai",
+    "baseOrderPrice": 15508.0
+  },
+  "306613": {
+    "itemCode": "306613",
+    "barcode": "8936080490566",
+    "itemName": "A&C Tiramisu 65g/ 1 Hop",
+    "baseOrderPrice": 14500.0
+  },
+  "263315": {
+    "itemCode": "263315",
+    "barcode": "8934680040594",
+    "itemName": "KINH DO SW Bo Dau Phong 48g/1 Goi",
+    "baseOrderPrice": 5018.0
+  },
+  "307089": {
+    "itemCode": "307089",
+    "barcode": "8936080491389",
+    "itemName": "A&C Banh Crepe Cau Vong 50g/ 1 Hop",
+    "baseOrderPrice": 16000.0
+  },
+  "197548": {
+    "itemCode": "197548",
+    "barcode": "8934680044264",
+    "itemName": "KINH DO BM O Dai Bo Sua 80g/1 Goi",
+    "baseOrderPrice": 7912.0
+  },
+  "253996": {
+    "itemCode": "253996",
+    "barcode": "2100012539968",
+    "itemName": "JBF Com Nam Ca Ngu Cay/1 Cai",
+    "baseOrderPrice": 9955.0
+  },
+  "307578": {
+    "itemCode": "307578",
+    "barcode": "8935282911633",
+    "itemName": "PhaTea Tra Man Tac Muoi 330ml/1 Chai",
+    "baseOrderPrice": 23611.0
+  },
+  "307137": {
+    "itemCode": "307137",
+    "barcode": "8935282911510",
+    "itemName": "PhaTea Tra Oi Hong 330ml/1 Chai",
+    "baseOrderPrice": 23611.0
+  },
+  "303761": {
+    "itemCode": "303761",
+    "barcode": "8934952006044",
+    "itemName": "KIDO BM Pho Mai Castella 40g/1 Goi",
+    "baseOrderPrice": 10476.0
+  },
+  "307877": {
+    "itemCode": "307877",
+    "barcode": "2100013078770",
+    "itemName": "HD Sandwich Bo BBQ/1 Cai",
+    "baseOrderPrice": 18000.0
+  },
+  "306653": {
+    "itemCode": "306653",
+    "barcode": "2100013066531",
+    "itemName": "HD Mi Y Tom Sot Rose/1 Cai",
+    "baseOrderPrice": 22000.0
+  },
+  "258467": {
+    "itemCode": "258467",
+    "barcode": "2100012584678",
+    "itemName": "JBF Mi Y Sot Thit Bam 280g/1 Hop",
+    "baseOrderPrice": 22037.04
+  },
+  "304956": {
+    "itemCode": "304956",
+    "barcode": "6976611080394",
+    "itemName": "MAYEEF Banh Tam Giac Vi Dau 90g/1Goi",
+    "baseOrderPrice": 12320.0
+  },
+  "264248": {
+    "itemCode": "264248",
+    "barcode": "8935049510062",
+    "itemName": "FANTA Nuoc Ngot Huong Cam 600ml/1 Chai",
+    "baseOrderPrice": 7221.0
+  },
+  "206541": {
+    "itemCode": "206541",
+    "barcode": "4018077690440",
+    "itemName": "LORENZ Banh Quy Xoan Vi Muoi 90g/1 Goi",
+    "baseOrderPrice": 34200.0
+  },
+  "300928": {
+    "itemCode": "300928",
+    "barcode": "8935012443380",
+    "itemName": "SAIGON Bia Chill 330ml/1 Lon",
+    "baseOrderPrice": 12864.0
+  },
+  "304330": {
+    "itemCode": "304330",
+    "barcode": "8935292400523",
+    "itemName": "TEA.A Tra Mang Cau 450ml/1 Chai",
+    "baseOrderPrice": 9500.0
+  },
+  "305021": {
+    "itemCode": "305021",
+    "barcode": "8938551741146",
+    "itemName": "EAST WEST Bia Rose 330ml/1 Lon",
+    "baseOrderPrice": 34758.33
+  },
+  "307300": {
+    "itemCode": "307300",
+    "barcode": "8934673500975",
+    "itemName": "VINAMILK Sua Chua An Tao Do Ky Tu It Duong 100g/1 Hop",
+    "baseOrderPrice": 11150.0
+  },
+  "263941": {
+    "itemCode": "263941",
+    "barcode": "8850389106273",
+    "itemName": "MOGU MOGU Nuoc Dua Thach Dua 320ml/1 Chai",
+    "baseOrderPrice": 15190.0
+  },
+  "304367": {
+    "itemCode": "304367",
+    "barcode": "8935049510116",
+    "itemName": "NUTRI BOOST Sua Chua Hy Lap Vi Cam 170ml/1 Chai",
+    "baseOrderPrice": 6957.0
+  },
+  "307013": {
+    "itemCode": "307013",
+    "barcode": "4962656136013",
+    "itemName": "ORION Bia 350ml/1 Lon",
+    "baseOrderPrice": 41000.0
+  },
+  "302924": {
+    "itemCode": "302924",
+    "barcode": "8936061260478",
+    "itemName": "SAPPORO Bia 100 330ml/1 Lon",
+    "baseOrderPrice": 17045.0
+  },
+  "305220": {
+    "itemCode": "305220",
+    "barcode": "8936200630346",
+    "itemName": "CHEF BIGGY Chan Ga Sot Nam 30g/1 Goi",
+    "baseOrderPrice": 7950.0
+  },
+  "306278": {
+    "itemCode": "306278",
+    "barcode": "810051811421",
+    "itemName": "BIOBOR Keo Deo Huong Sua Chua 23g/1 Goi",
+    "baseOrderPrice": 17972.0
+  },
+  "115386": {
+    "itemCode": "115386",
+    "barcode": "8888077101200",
+    "itemName": "YAN YAN Banh Que Kem Vani 50g/1 Ly",
+    "baseOrderPrice": 18861.0
+  },
+  "273077": {
+    "itemCode": "273077",
+    "barcode": "8935049501541",
+    "itemName": "COCA COCA PLUS Nuoc Ngot Co Ga Lon Cao 320ml/1 Lon",
+    "baseOrderPrice": 9830.0
+  },
+  "119617": {
+    "itemCode": "119617",
+    "barcode": "8934841901979",
+    "itemName": "DUTCH LADY Sua Tiet Trung Khong Duong 965ml/1 Hop",
+    "baseOrderPrice": 32500.0
+  },
+  "171681": {
+    "itemCode": "171681",
+    "barcode": "8934868141532",
+    "itemName": "VIM Tay Bon Cau Xanh Duong 500ml/1 Chai",
+    "baseOrderPrice": 20036.0
+  },
+  "303769": {
+    "itemCode": "303769",
+    "barcode": "8934868172437",
+    "itemName": "SUNLIGHT NRC Chanh 750g/1 Chai",
+    "baseOrderPrice": 22445.0
+  },
+  "306684": {
+    "itemCode": "306684",
+    "barcode": "8935299648614",
+    "itemName": "Cobi Banh Mi Nuong XX Pho Mai 70g/1 Cai",
+    "baseOrderPrice": 17325.0
+  },
+  "151782": {
+    "itemCode": "151782",
+    "barcode": "8931106001016",
+    "itemName": "TP Banh Bao Trung Cut 150g/1 Cai",
+    "baseOrderPrice": 14815.0
+  },
+  "307138": {
+    "itemCode": "307138",
+    "barcode": "8935282911503",
+    "itemName": "PhaTea Tra Vai Hoa Hong 330ml/1 Chai",
+    "baseOrderPrice": 23611.0
+  },
+  "273174": {
+    "itemCode": "273174",
+    "barcode": "8936146442263",
+    "itemName": "G Cha Lua Que Bi 50g/1 Goi",
+    "baseOrderPrice": 7954.0
+  },
+  "109325": {
+    "itemCode": "109325",
+    "barcode": "8935004400889",
+    "itemName": "KENT Thuoc La Nanotek 20 Dieu/1 Goi",
+    "baseOrderPrice": 29909.090909
+  },
+  "304267": {
+    "itemCode": "304267",
+    "barcode": "8888230020300",
+    "itemName": "YIFON Nhan Ngam 565g/1 Lon",
+    "baseOrderPrice": 43500.0
+  },
+  "307876": {
+    "itemCode": "307876",
+    "barcode": "2100013078763",
+    "itemName": "HD Sandwich Ga Cay & Xuc Xich Cha Bong/1 Cai",
+    "baseOrderPrice": 17100.0
+  },
+  "307466": {
+    "itemCode": "307466",
+    "barcode": "8936132460134",
+    "itemName": "Chuoi Dole/1 Trai",
+    "baseOrderPrice": 6808.0
+  },
+  "251546": {
+    "itemCode": "251546",
+    "barcode": "2900012515463",
+    "itemName": "JBF Com Nam Ca Hoi Mayo/1 Cai",
+    "baseOrderPrice": 10045.0
+  },
+  "306614": {
+    "itemCode": "306614",
+    "barcode": "8936080491402",
+    "itemName": "A&C Banh Red Velvet 55g/ 1 Hop",
+    "baseOrderPrice": 16000.0
+  },
+  "244971": {
+    "itemCode": "244971",
+    "barcode": "2100012449717",
+    "itemName": "JBF Com Nam Ca Ngu Bap/1 Cai",
+    "baseOrderPrice": 10093.0
+  },
+  "307589": {
+    "itemCode": "307589",
+    "barcode": "2100013075892",
+    "itemName": "JBF Temaki Thanh Cua Trung Ca Mayo/1 Cai",
+    "baseOrderPrice": 11333.0
+  },
+  "304555": {
+    "itemCode": "304555",
+    "barcode": "2100013045550",
+    "itemName": "HD Com Dui Ga Mam Toi/1 Hop",
+    "baseOrderPrice": 24000.0
+  },
+  "251562": {
+    "itemCode": "251562",
+    "barcode": "2900012515623",
+    "itemName": "JBF Com Chien Duong Chau 248g/1 Hop",
+    "baseOrderPrice": 22685.0
+  },
+  "301125": {
+    "itemCode": "301125",
+    "barcode": "2100013011258",
+    "itemName": "JBF Sandwich Ga Sot Kkanpunggi/1 Cai",
+    "baseOrderPrice": 17417.54
+  },
+  "304872": {
+    "itemCode": "304872",
+    "barcode": "2100013048728",
+    "itemName": "HD Buger Hong Ga Sot Pho Mai Han Quoc 137g/cai",
+    "baseOrderPrice": 22500.0
+  },
+  "306536": {
+    "itemCode": "306536",
+    "barcode": "8934803055375",
+    "itemName": "FRESHCUTS French Fries Vi Ga Mala 75g/1 Goi",
+    "baseOrderPrice": 20000.0
+  },
+  "306537": {
+    "itemCode": "306537",
+    "barcode": "8934803055368",
+    "itemName": "FRESHCUTS French Fries Vi Rong Bien 75g/1 Goi",
+    "baseOrderPrice": 20000.0
+  },
+  "304097": {
+    "itemCode": "304097",
+    "barcode": "8850329106561",
+    "itemName": "MEIJI Sua Thanh Trung Chuoi 200ml/1 Chai",
+    "baseOrderPrice": 13750.0
+  },
+  "304012": {
+    "itemCode": "304012",
+    "barcode": "8936076271957",
+    "itemName": "SAVOURE Banh Oc Kem 60g/ 1 Cai",
+    "baseOrderPrice": 7900.0
+  },
+  "307527": {
+    "itemCode": "307527",
+    "barcode": "8850393802093",
+    "itemName": "BETAGEN Sua Chua Uong Vi Dau 140ml/1 Chai",
+    "baseOrderPrice": 7170.0
+  },
+  "205804": {
+    "itemCode": "205804",
+    "barcode": "8935006355408",
+    "itemName": "OTTO BM Thit 50g/1 Goi",
+    "baseOrderPrice": 4921.0
+  }
+}
