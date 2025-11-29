@@ -495,7 +495,7 @@ def inventory():
 def inventory_file():
     service = InventoryService()
     # Prefer a specific saved response file (absolute path) when present.
-    preferred_path = r"C:\Users\SG0xxx-Tablet\Documents\SM\TOOL BCS\Order\order-backend\saved_responses\upstream_20251002_092006_318990.json"
+    preferred_path = r"saved_responses\upstream_20250929_134458_570687.json"
     upstream_json = None
     if os.path.exists(preferred_path):
         try:

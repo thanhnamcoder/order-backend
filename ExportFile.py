@@ -436,29 +436,29 @@ def item_sell_by_store(start_date, end_date, department_cd, category_cd, subCate
         print("❌ Không thể export file SELL ITEM REPORT")
         return []
 # print(item_sell_by_store("20251031", "20251031", "", "", ""))
-from loginCirclek import get_session_token
-from login_utils import get_login_info
-BASE_PATH = r'C:\Users\SG0xxx-Tablet\Documents\SM\TOOL BCS\Order\order-backend'
-ITEM_FOLDER = os.path.join(BASE_PATH, 'Data', 'Item')
-session_id = get_session_token()
-store_cd_group = get_login_info("store_cd_group")
-store_cd = get_login_info("store_cd")
-start_date = "20251101"
-end_date = "20251127"
-group_craw_data(
-    session_id=session_id,
-    store_cd_group=store_cd_group,
-    start_date=start_date,
-    end_date=end_date,
-    type_report="export_sell_day_report",
-    folder_path=ITEM_FOLDER,
-    department_cd="",      # tùy theo cấu trúc hệ thống
-    category_cd=None,
-    subCategory_cd=None,
-    barcode="",
-    articleName="",
-    merge_files=True,  # Đặt False nếu không muốn gộp file
-    format_export_sell_item_report=True,
-    format_export_dep_report=True,
-    format_export_sell_day_report=True
-)
+# from loginCirclek import get_session_token
+# from login_utils import get_login_info
+# BASE_PATH = r'C:\Users\SG0xxx-Tablet\Documents\SM\TOOL BCS\Order\order-backend'
+# ITEM_FOLDER = os.path.join(BASE_PATH, 'Data', 'Item')
+# session_id = get_session_token()
+# store_cd_group = get_login_info("store_cd_group")
+# store_cd = get_login_info("store_cd")
+# start_date = "20251101"
+# end_date = "20251127"
+# group_craw_data(
+#     session_id=session_id,
+#     store_cd_group=store_cd_group,
+#     start_date=start_date,
+#     end_date=end_date,
+#     type_report="export_sell_day_report",
+#     folder_path=ITEM_FOLDER,
+#     department_cd="",      # tùy theo cấu trúc hệ thống
+#     category_cd=None,
+#     subCategory_cd=None,
+#     barcode="",
+#     articleName="",
+#     merge_files=True,  # Đặt False nếu không muốn gộp file
+#     format_export_sell_item_report=True,
+#     format_export_dep_report=True,
+#     format_export_sell_day_report=True
+# )
